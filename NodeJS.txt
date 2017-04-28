@@ -1,0 +1,22 @@
+¿Porque Node?
+  Javascript en el server
+  poderoso, rapido y escalable en web applications
+  Node usa Non-blocking I/O
+    Trabaja en un solo hilo usando non-Bloking I/O calls
+    Rapido y eficiente
+  Podemos crear
+      Rest APIs & backend Applications.
+      Real-Time services (chat,games,etc).
+      utilities and tools
+      cualquier cosa que no sea CPU - intensive.
+  Modulos populares de NodeJS
+      Express - Web development framework
+      Connect - Extensible HTTP Server framework
+      Socket.io - Server side component for websockets
+      Pug/Jade - Template engine inspired by HAML
+      Mongo/Mongoose - Envuelvo con la interaccion con MongoDB
+      Coffe-Script - CoffeScript compiler
+      Redi - Redis client library
+  package.json File
+      Va en el root de nuestro package/application
+      Avisa al npm como esta estructurado y que hacer para instalarlo
